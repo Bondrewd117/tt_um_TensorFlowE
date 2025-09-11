@@ -36,7 +36,7 @@ The expected behavior of TensorFlowE is to multiply two 2x2 matrices, resulting 
 
 ![Schematic](TF.png)
 
-##Summary of test cases 
+## Summary of test cases 
 test_tensorflow_e:
 
 Multiplies identity matrix A by matrix B and reads the result.
